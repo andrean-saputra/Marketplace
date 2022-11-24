@@ -27,10 +27,10 @@
             </div>
             <div class="accordion-item">
                 <h2 class="accordion-header" id="headingOne">
-                    <a class="accordion-button accordion-1 collapsed"
-                        data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne" href="#popular">
+                    <a class="accordion-button accordion-1 collapsed" data-bs-target="#collapseOne"
+                        aria-expanded="false" aria-controls="collapseOne" href="#popular">
                         Popular
-                </a>
+                    </a>
                 </h2>
             </div>
             <div class="accordion-item">
@@ -91,12 +91,12 @@
                 </div>
             </div>
         </div>
-        <div class="marketplace-item">
-            <div class="container">
+        <div class="marketplace-item" style="padding-left: 3%; width: 78%">
+            <div class="container" style="padding: 0;">
                 <div class="dropdown-wrapper">
                     <div class="btn-group">
                         <button type="button" class="btn btn-secondary dropdown-toggle sort-button"
-                            data-bs-toggle="dropdown" data-bs-display="static" aria-expanded="false">
+                            data-bs-toggle="dropdown" data-bs-display="static" aria-expanded="false" style="padding: 0;">
                             Sort
                         </button>
                         <ul class="dropdown-menu dropdown-menu-lg-end">
@@ -106,72 +106,84 @@
                         </ul>
                     </div>
                 </div>
-                <div class="marketplace-title">Retail</div>
+                <div class="marketplace-title" style="margin-left: 26px">Retail</div>
                 <div class="row mt-5 mb-5">
                     <div class="col-4">
                         <div class="card" style="width: 18rem;">
-                            <img src="{{ URL::asset('/assets/image/integrate.png') }}" class="card-img-top" alt="...">
+                            <img src="https://uploads-ssl.webflow.com/6005ea4c5ffe7d59bb2933e3/6087ff2869998db9fb8434ad_60129a597c5b606ffe30d2d9_Logo_Magento%2520New-141.png"
+                                class="card-img-top" alt="...">
                         </div>
                     </div>
                     <div class="col-4">
                         <div class="card" style="width: 18rem;">
-                            <img src="{{ URL::asset('/assets/image/integrate.png') }}" class="card-img-top" alt="...">
+                            <img src="https://uploads-ssl.webflow.com/6005ea4c5ffe7d0f502933e4/6005ea4c5ffe7dd544293773_shopware-seeklogo.com.svg"
+                                class="card-img-top" alt="...">
                         </div>
                     </div>
                     <div class="col-4">
                         <div class="card" style="width: 18rem;">
-                            <img src="{{ URL::asset('/assets/image/integrate.png') }}" class="card-img-top" alt="...">
+                            <img src="https://uploads-ssl.webflow.com/6005ea4c5ffe7d0f502933e4/602f6b75abdf727a555d8ad3_SAP.svg"
+                                class="card-img-top" alt="...">
                         </div>
                     </div>
                 </div>
                 <div class="row mt-5 mb-5">
                     <div class="col-4">
                         <div class="card" style="width: 18rem;">
-                            <img src="{{ URL::asset('/assets/image/integrate.png') }}" class="card-img-top" alt="...">
+                            <img src="https://uploads-ssl.webflow.com/6005ea4c5ffe7d0f502933e4/625e79057d807a730dc0aeaf_Shopify%20-%20Logo.svg"
+                                class="card-img-top" alt="...">
                         </div>
                     </div>
                     <div class="col-4">
                         <div class="card" style="width: 18rem;">
-                            <img src="{{ URL::asset('/assets/image/integrate.png') }}" class="card-img-top" alt="...">
+                            <img src="https://uploads-ssl.webflow.com/6005ea4c5ffe7d59bb2933e3/6005ea4c5ffe7d71c82942d4_5ff79691c4cb9553e4df7b63_Integration_logo-18.svg"
+                                class="card-img-top" alt="...">
                         </div>
                     </div>
                     <div class="col-4">
                         <div class="card" style="width: 18rem;">
-                            <img src="{{ URL::asset('/assets/image/integrate.png') }}" class="card-img-top" alt="...">
-                        </div>
-                    </div>
-                </div>
-                <div class="row mt-5 mb-5">
-                    <div class="col-4">
-                        <div class="card" style="width: 18rem;">
-                            <img src="{{ URL::asset('/assets/image/integrate.png') }}" class="card-img-top" alt="...">
-                        </div>
-                    </div>
-                    <div class="col-4">
-                        <div class="card" style="width: 18rem;">
-                            <img src="{{ URL::asset('/assets/image/integrate.png') }}" class="card-img-top" alt="...">
-                        </div>
-                    </div>
-                    <div class="col-4">
-                        <div class="card" style="width: 18rem;">
-                            <img src="{{ URL::asset('/assets/image/integrate.png') }}" class="card-img-top" alt="...">
+                            <img src="https://uploads-ssl.webflow.com/6005ea4c5ffe7d59bb2933e3/6005ea4c5ffe7d01272942d7_5ff79691c4cb95800bdf7b64_Integration_logo-16.svg"
+                                class="card-img-top" alt="...">
                         </div>
                     </div>
                 </div>
                 <div class="row mt-5 mb-5">
                     <div class="col-4">
                         <div class="card" style="width: 18rem;">
-                            <img src="{{ URL::asset('/assets/image/integrate.png') }}" class="card-img-top" alt="...">
+                            <img src="https://uploads-ssl.webflow.com/6005ea4c5ffe7d59bb2933e3/608ac6fb5db42f9d7cbfd436_Logo_Pimcore-192.svg"
+                                class="card-img-top" alt="...">
                         </div>
                     </div>
                     <div class="col-4">
                         <div class="card" style="width: 18rem;">
-                            <img src="{{ URL::asset('/assets/image/integrate.png') }}" class="card-img-top" alt="...">
+                            <img src="https://uploads-ssl.webflow.com/6005ea4c5ffe7d59bb2933e3/6087ff2fcab821d63a747dd5_601d1aa1aaa5367af4d0fc5b_Logo_MD%2520365.png"
+                                class="card-img-top" alt="...">
                         </div>
                     </div>
                     <div class="col-4">
                         <div class="card" style="width: 18rem;">
-                            <img src="{{ URL::asset('/assets/image/integrate.png') }}" class="card-img-top" alt="...">
+                            <img src="https://uploads-ssl.webflow.com/6005ea4c5ffe7d59bb2933e3/6005ea4c5ffe7d55102943ec_5ff79691c4cb957e9bdf7b74_LOGO_Visma.png"
+                                class="card-img-top" alt="...">
+                        </div>
+                    </div>
+                </div>
+                <div class="row mt-5 mb-5">
+                    <div class="col-4">
+                        <div class="card" style="width: 18rem;">
+                            <img src="https://uploads-ssl.webflow.com/6005ea4c5ffe7d59bb2933e3/6005ea4c5ffe7d3eca2942d8_5ff79691c4cb957729df7b5f_Integration_logo-01.svg"
+                                class="card-img-top" alt="...">
+                        </div>
+                    </div>
+                    <div class="col-4">
+                        <div class="card" style="width: 18rem;">
+                            <img src="https://uploads-ssl.webflow.com/6005ea4c5ffe7d59bb2933e3/6005ea4c5ffe7d33a92943e2_5ff79691c4cb9517a0df7b7c_LOGO_Akeneo.png"
+                                class="card-img-top" alt="...">
+                        </div>
+                    </div>
+                    <div class="col-4">
+                        <div class="card" style="width: 18rem;">
+                            <img src="https://uploads-ssl.webflow.com/6005ea4c5ffe7d59bb2933e3/6005ea4c5ffe7d1ed32942aa_5ff79691c4cb95aa2ddf7b5c_Integration_logo-05.svg"
+                                class="card-img-top" alt="...">
                         </div>
                     </div>
                 </div>
@@ -193,17 +205,72 @@
         <div class="row mt-5 mb-5">
             <div class="col-3">
                 <div class="card" style="width: 15rem;">
-                    <img src="{{ URL::asset('/assets/image/integrate.png') }}" class="card-img-top" alt="...">
+                    <img src="https://uploads-ssl.webflow.com/6005ea4c5ffe7d59bb2933e3/6005ea4c5ffe7d572c294433_5ff79691c4cb953916df7bd1_Logo_Amazon%2520S3.png"
+                        class="card-img-top" alt="...">
                 </div>
             </div>
             <div class="col-3">
                 <div class="card" style="width: 15rem;">
-                    <img src="{{ URL::asset('/assets/image/integrate.png') }}" class="card-img-top" alt="...">
+                    <img src="https://uploads-ssl.webflow.com/6005ea4c5ffe7d59bb2933e3/6005ea4c5ffe7d0412294460_5ff79691c4cb9541dfdf7bd7_Logo_Slack.png"
+                        class="card-img-top" alt="...">
                 </div>
             </div>
             <div class="col-3">
                 <div class="card" style="width: 15rem;">
-                    <img src="{{ URL::asset('/assets/image/integrate.png') }}" class="card-img-top" alt="...">
+                    <img src="https://uploads-ssl.webflow.com/6005ea4c5ffe7d59bb2933e3/6005ea4c5ffe7d3eca2942d8_5ff79691c4cb957729df7b5f_Integration_logo-01.svg"
+                        class="card-img-top" alt="...">
+                </div>
+            </div>
+            <div class="col-3">
+                <div class="card" style="width: 15rem;">
+                    <img src="https://uploads-ssl.webflow.com/6005ea4c5ffe7d0f502933e4/602f6b75abdf727a555d8ad3_SAP.svg"
+                        class="card-img-top" alt="...">
+                </div>
+            </div>
+        </div>
+        <div class="row mt-5 mb-5">
+            <div class="col-3">
+                <div class="card" style="width: 15rem;">
+                    <img src="https://uploads-ssl.webflow.com/6005ea4c5ffe7d59bb2933e3/6005ea4c5ffe7d3cf3294458_5ff79691c4cb9585badf7b89_LOGO_PowerBI.png"
+                        class="card-img-top" alt="...">
+                </div>
+            </div>
+            <div class="col-3">
+                <div class="card" style="width: 15rem;">
+                    <img src="https://uploads-ssl.webflow.com/6005ea4c5ffe7d59bb2933e3/6005ea4c5ffe7d004d294464_5ff79691c4cb95d8c9df7b87_LOGO_Tableau.png"
+                        class="card-img-top" alt="...">
+                </div>
+            </div>
+            <div class="col-3">
+                <div class="card" style="width: 15rem;">
+                    <img src="https://uploads-ssl.webflow.com/6005ea4c5ffe7d59bb2933e3/6005ea4c5ffe7d3d5c29444a_5ff79691c4cb950ffadf7b8b_LOGO_Klipfolio.png"
+                        class="card-img-top" alt="...">
+                </div>
+            </div>
+            <div class="col-3">
+                <div class="card" style="width: 15rem;">
+                    <img src="https://uploads-ssl.webflow.com/6005ea4c5ffe7d59bb2933e3/6005ea4c5ffe7d893829445b_5ff79691c4cb951e96df7b88_LOGO_QlikView.png"
+                        class="card-img-top" alt="...">
+                </div>
+            </div>
+        </div>
+        <div class="row mt-5 mb-5">
+            <div class="col-3">
+                <div class="card" style="width: 15rem;">
+                    <img src="https://uploads-ssl.webflow.com/6005ea4c5ffe7d59bb2933e3/6005ea4c5ffe7d070e294452_5ff79691c4cb95a2f5df7b8a_LOGO_Omnia.png"
+                        class="card-img-top" alt="...">
+                </div>
+            </div>
+            <div class="col-3">
+                <div class="card" style="width: 15rem;">
+                    <img src="https://uploads-ssl.webflow.com/6005ea4c5ffe7d59bb2933e3/6005ea4c5ffe7d5697294339_5ff79691c4cb95cb21df7bbd_logo_Hubspot.svg"
+                        class="card-img-top" alt="...">
+                </div>
+            </div>
+            <div class="col-3">
+                <div class="card" style="width: 15rem;">
+                    <img src="https://uploads-ssl.webflow.com/6005ea4c5ffe7d59bb2933e3/6005ea4c5ffe7dad60294432_5ff79691c4cb9507a9df7b85_LOGO_Amazon.png"
+                        class="card-img-top" alt="...">
                 </div>
             </div>
             <div class="col-3">
@@ -212,48 +279,52 @@
                 </div>
             </div>
         </div>
-        <div class="row mt-5 mb-5">
-            <div class="col-3">
-                <div class="card" style="width: 15rem;">
-                    <img src="{{ URL::asset('/assets/image/integrate.png') }}" class="card-img-top" alt="...">
-                </div>
-            </div>
-            <div class="col-3">
-                <div class="card" style="width: 15rem;">
-                    <img src="{{ URL::asset('/assets/image/integrate.png') }}" class="card-img-top" alt="...">
-                </div>
-            </div>
-            <div class="col-3">
-                <div class="card" style="width: 15rem;">
-                    <img src="{{ URL::asset('/assets/image/integrate.png') }}" class="card-img-top" alt="...">
-                </div>
-            </div>
-            <div class="col-3">
-                <div class="card" style="width: 15rem;">
-                    <img src="{{ URL::asset('/assets/image/integrate.png') }}" class="card-img-top" alt="...">
-                </div>
+    </div>
+</div>
+<div class="partner-section">
+    <div class="container row" style="padding: 16vh 0;">
+        <div class="col-5 wrapper-left">
+            <div class="partner-title"
+                style="font-size: 46px; font-weight: 600; letter-spacing: 0.02em; line-height: 1.2">Need help
+                <br>setting up your <br>integrations ?</div>
+            <div class="partner-subtitle mt-5">
+                Get in touch with one of our global partners for <br>local assistance
             </div>
         </div>
-        <div class="row mt-5 mb-5">
-            <div class="col-3">
-                <div class="card" style="width: 15rem;">
-                    <img src="{{ URL::asset('/assets/image/integrate.png') }}" class="card-img-top" alt="...">
+        <div class="col-7 wrapper-right">
+            <div class="row mb-5">
+                <div class="col-4 partner-picture">
+                    <img src="https://uploads-ssl.webflow.com/6005ea4c5ffe7d0f502933e4/62626fbccad5022e711d5735_Memo%20ICT.webp"
+                        alt="" srcset="">
+                </div>
+                <div class="col-4 partner-picture">
+                    <img src="https://uploads-ssl.webflow.com/6005ea4c5ffe7d0f502933e4/62626fbccad5024e5d1d572f_Youwe.webp"
+                        alt="" srcset="">
+                </div>
+                <div class="col-4 partner-picture">
+                    <img src="https://uploads-ssl.webflow.com/6005ea4c5ffe7d0f502933e4/62626fbccad502e8571d5733_Experius.webp"
+                        alt="" srcset="">
                 </div>
             </div>
-            <div class="col-3">
-                <div class="card" style="width: 15rem;">
-                    <img src="{{ URL::asset('/assets/image/integrate.png') }}" class="card-img-top" alt="...">
+            <div class="row mt-5 mb-5">
+                <div class="col-4 partner-picture">
+                    <img src="https://uploads-ssl.webflow.com/6005ea4c5ffe7d0f502933e4/62626fbccad50274541d5737_ShopWorks.webp"
+                        alt="" srcset="">
+                </div>
+                <div class="col-4 partner-picture">
+                    <img src="https://uploads-ssl.webflow.com/6005ea4c5ffe7d0f502933e4/62626fbccad50204bf1d5739_Space48.webp"
+                        alt="" srcset="">
+                </div>
+                <div class="col-4 partner-picture">
+                    <img src="https://uploads-ssl.webflow.com/6005ea4c5ffe7d0f502933e4/62626fbccad50279ce1d5731_Meteor.webp"
+                        alt="" srcset="">
                 </div>
             </div>
-            <div class="col-3">
-                <div class="card" style="width: 15rem;">
-                    <img src="{{ URL::asset('/assets/image/integrate.png') }}" class="card-img-top" alt="...">
-                </div>
-            </div>
-            <div class="col-3">
-                <div class="card" style="width: 15rem;">
-                    <img src="{{ URL::asset('/assets/image/integrate.png') }}" class="card-img-top" alt="...">
-                </div>
+            <div class="all-partner-wrapper" style="text-align:center;">
+                <a href="#" style="color: #6241F5; font-size: 25px; font-weight: 600;margin-right: 20px">Click here for
+                    all partners</a>
+                <img src="https://uploads-ssl.webflow.com/6005ea4c5ffe7d0f502933e4/625e6fa48fbf5435f272cb02_Icon%20awesome-arrow-circle-right.svg"
+                    alt="" srcset="">
             </div>
         </div>
     </div>
