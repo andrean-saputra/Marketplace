@@ -73,7 +73,7 @@
             </div>
             <div class="social-links">
                 <a href="https://www.linkedin.com/company/alumio-int/" class="social-link w-inline-block"><img
-                        src="images/Linkedin.svg" width="22" alt=""></a>
+                        src="https://assets-global.website-files.com/6005ea4c5ffe7d0f502933e4/6005ea4c5ffe7d56c6293554_Linkedin.svg" width="22" alt=""></a>
             </div>
         </div>
     </div>

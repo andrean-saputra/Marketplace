@@ -22,7 +22,7 @@
             <div class="search" style="margin: 20px 0;">
                 <div class="sidebar-title" style="font-weight: 500; margin: 10px 0;">All Softwares</div>
                 <form action="">
-                    <input class="search-bar" type="search">
+                    <input class="search-bar" style="padding-left: 40px" type="search">
                 </form>
             </div>
             <div class="accordion-item">
