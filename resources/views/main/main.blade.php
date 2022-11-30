@@ -30,7 +30,7 @@
         <div class="container container-fluid">
             <a class="navbar-brand" style="width: 140px;" href="#"><img style="display: inline-block"
                     class="navbar-logo"
-                    src="https://assets.website-files.com/627d84dfa7c4a916c9787ebb/627d84dfa7c4a96aa3787f50_alumio-logo.svg"
+                    src="https://assets-global.website-files.com/6005ea4c5ffe7d0f502933e4/6005ea4c5ffe7d57342934dc_alumio-logo.svg"
                     alt=""></a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#main_nav"
                 aria-expanded="false" aria-label="Toggle navigation">
@@ -46,13 +46,20 @@
                                     <div class="col-megamenu">
                                         <h6 class="title">iPaaS Integration Platform</h6>
                                         <ul class="list-unstyled">
-                                            <li><a href="https://www.alumio.com/platform/how-it-works">How it works</a></li>
+                                            <li><a href="https://www.alumio.com/platform/how-it-works">How it works</a>
+                                            </li>
                                             <li><a href="https://www.alumio.com/platform/overview">Solution</a></li>
                                             <li><a href="https://www.alumio.com/platform/features">Features</a></li>
-                                            <li><a href="https://www.alumio.com/platform/alumio-architecture">Architecture</a></li>
-                                            <li><a href="https://www.alumio.com/crash-course/getting-started-simple-dataroute-from-api-to-api">Crash Course Videos</a></li>
-                                            <li><a href="https://www.alumio.com/security-compliance/secure">Security & Compliancy</a></li>
-                                            <li><a href="https://www.alumio.com/performance/insights">Performance</a></li>
+                                            <li><a
+                                                    href="https://www.alumio.com/platform/alumio-architecture">Architecture</a>
+                                            </li>
+                                            <li><a
+                                                    href="https://www.alumio.com/crash-course/getting-started-simple-dataroute-from-api-to-api">Crash
+                                                    Course Videos</a></li>
+                                            <li><a href="https://www.alumio.com/security-compliance/secure">Security &
+                                                    Compliancy</a></li>
+                                            <li><a href="https://www.alumio.com/performance/insights">Performance</a>
+                                            </li>
                                         </ul>
                                     </div> <!-- col-megamenu.// -->
                                 </div><!-- end col-3 -->
@@ -62,14 +69,22 @@
                                         <ul class="list-unstyled">
                                             <li><a href="https://www.alumio.com/api-plugin/sap-ecc">SAP ECC</a></li>
                                             <li><a href="http://www.alumio.com/api-plugin/sap-ecc">SAP R/3</a></li>
-                                            <li><a href="http://www.alumio.com/api-plugin/sap-s4hana">SAP S/4HANA</a></li>
+                                            <li><a href="http://www.alumio.com/api-plugin/sap-s4hana">SAP S/4HANA</a>
+                                            </li>
                                         </ul>
                                         <h6 class="title">Microsoft API plugin</h6>
                                         <ul class="list-unstyled">
-                                            <li><a href="https://www.alumio.com/platforms/microsoft-dynamics-ax">Dynamics AX</a></li>
-                                            <li><a href="https://www.alumio.com/platforms/microsoft-dynamics-365-finance-operations">Dynamics 365 Finance</a></li>
-                                            <li><a href="https://www.alumio.com/platforms/microsoft-dynamics-365-finance-operations">Dynamics 365 Supply Chain</a></li>
-                                            <li><a href="https://www.alumio.com/platforms/microsoft-dynamics-365-business-central">Dynamics 365 Business Central</a></li>
+                                            <li><a href="https://www.alumio.com/platforms/microsoft-dynamics-ax">Dynamics
+                                                    AX</a></li>
+                                            <li><a
+                                                    href="https://www.alumio.com/platforms/microsoft-dynamics-365-finance-operations">Dynamics
+                                                    365 Finance</a></li>
+                                            <li><a
+                                                    href="https://www.alumio.com/platforms/microsoft-dynamics-365-finance-operations">Dynamics
+                                                    365 Supply Chain</a></li>
+                                            <li><a
+                                                    href="https://www.alumio.com/platforms/microsoft-dynamics-365-business-central">Dynamics
+                                                    365 Business Central</a></li>
                                         </ul>
                                     </div> <!-- col-megamenu.// -->
                                 </div><!-- end col-3 -->
@@ -77,12 +92,23 @@
                                     <div class="col-megamenu">
                                         <h6 class="title">Who it's for</h6>
                                         <ul class="list-unstyled">
-                                            <li><a href="https://www.alumio.com/platform/digital-agencies-and-system-integrators">Digital Agencies</a></li>
-                                            <li><a href="https://www.alumio.com/platform/digital-agencies-and-system-integrators">System Integrators</a></li>
-                                            <li><a href="https://www.alumio.com/platform/alumio-for-isv-independent-software-vendors">ISV</a></li>
-                                            <li><a href="https://www.alumio.com/platform/alumio-for-developers">Developers</a></li>
-                                            <li><a href="https://www.alumio.com/performance/architecture">Architects</a></li>
-                                            <li><a href="https://www.alumio.com/company#integration-services">Consultants</a></li>
+                                            <li><a
+                                                    href="https://www.alumio.com/platform/digital-agencies-and-system-integrators">Digital
+                                                    Agencies</a></li>
+                                            <li><a
+                                                    href="https://www.alumio.com/platform/digital-agencies-and-system-integrators">System
+                                                    Integrators</a></li>
+                                            <li><a
+                                                    href="https://www.alumio.com/platform/alumio-for-isv-independent-software-vendors">ISV</a>
+                                            </li>
+                                            <li><a
+                                                    href="https://www.alumio.com/platform/alumio-for-developers">Developers</a>
+                                            </li>
+                                            <li><a href="https://www.alumio.com/performance/architecture">Architects</a>
+                                            </li>
+                                            <li><a
+                                                    href="https://www.alumio.com/company#integration-services">Consultants</a>
+                                            </li>
                                         </ul>
                                     </div> <!-- col-megamenu.// -->
                                 </div>
@@ -99,19 +125,30 @@
                                         <ul class="list-unstyled">
                                             <li><a href="https://www.alumio.com/integrate/sap-api-plugin">SAP</a></li>
                                             <li><a href="https://www.alumio.com/platforms/sage">SAGE</a></li>
-                                            <li><a href="https://www.alumio.com/platforms/microsoft-dynamics-365">Dynamics 365</a></li>
+                                            <li><a href="https://www.alumio.com/platforms/microsoft-dynamics-365">Dynamics
+                                                    365</a></li>
                                             <li><a href="https://www.alumio.com/platforms/agp">Kerridge</a></li>
                                             <li><a href="https://www.alumio.com/marketplace">More...</a></li>
                                         </ul>
                                         <h6 class="title">Native Connectors</h6>
                                         <ul class="list-unstyled">
-                                            <li><a href="https://www.alumio.com/platforms/microsoft-dynamics-ax">Dynamics AX</a></li>
-                                            <li><a href="https://www.alumio.com/platforms/microsoft-dynamics-365-finance-operations">Dynamics 365 Finance</a></li>
-                                            <li><a href="https://www.alumio.com/platforms/microsoft-dynamics-365-finance-operations">Dynamics 365 Supply Chain</a></li>
-                                            <li><a href="https://www.alumio.com/platforms/microsoft-dynamics-365-business-central">Dynamics 365</a></li>
-                                            <li><a href="https://www.alumio.com/integrate/sap-api-plugin">SAP ECC</a></li>
-                                            <li><a href="https://www.alumio.com/integrate/sap-api-plugin">SAP R/3</a></li>
-                                            <li><a href="https://www.alumio.com/integrate/sap-api-plugin">SAP S/4HANA</a></li>
+                                            <li><a href="https://www.alumio.com/platforms/microsoft-dynamics-ax">Dynamics
+                                                    AX</a></li>
+                                            <li><a
+                                                    href="https://www.alumio.com/platforms/microsoft-dynamics-365-finance-operations">Dynamics
+                                                    365 Finance</a></li>
+                                            <li><a
+                                                    href="https://www.alumio.com/platforms/microsoft-dynamics-365-finance-operations">Dynamics
+                                                    365 Supply Chain</a></li>
+                                            <li><a
+                                                    href="https://www.alumio.com/platforms/microsoft-dynamics-365-business-central">Dynamics
+                                                    365</a></li>
+                                            <li><a href="https://www.alumio.com/integrate/sap-api-plugin">SAP ECC</a>
+                                            </li>
+                                            <li><a href="https://www.alumio.com/integrate/sap-api-plugin">SAP R/3</a>
+                                            </li>
+                                            <li><a href="https://www.alumio.com/integrate/sap-api-plugin">SAP
+                                                    S/4HANA</a></li>
                                         </ul>
                                     </div> <!-- col-megamenu.// -->
                                 </div><!-- end col-3 -->
@@ -119,10 +156,13 @@
                                     <div class="col-megamenu">
                                         <h6 class="title">Ecommerce</h6>
                                         <ul class="list-unstyled">
-                                            <li><a href="https://www.alumio.com/platforms/magento">Adobe Magento</a></li>
+                                            <li><a href="https://www.alumio.com/platforms/magento">Adobe Magento</a>
+                                            </li>
                                             <li><a href="https://www.alumio.com/platforms/shopware">Shopware</a></li>
-                                            <li><a href="https://www.alumio.com/platforms/bigcommerce">BigCommerce</a></li>
-                                            <li><a href="https://www.alumio.com/platforms/woocommerce">Woocommerce</a></li>
+                                            <li><a href="https://www.alumio.com/platforms/bigcommerce">BigCommerce</a>
+                                            </li>
+                                            <li><a href="https://www.alumio.com/platforms/woocommerce">Woocommerce</a>
+                                            </li>
                                             <li><a href="https://www.alumio.com/marketplace">More...</a></li>
                                         </ul>
                                         <h6 class="title">PIM</h6>
@@ -132,7 +172,7 @@
                                             <li><a href="https://www.alumio.com/platforms/ergonode">Ergonode</a></li>
                                             <li><a href="https://www.alumio.com/platforms/inriver">InRiver</a></li>
                                             <li><a href="https://www.alumio.com/marketplace">More...</a></li>
-                                        </ul>   
+                                        </ul>
                                     </div> <!-- col-megamenu.// -->
                                 </div><!-- end col-3 -->
                                 <div class="col-lg-4 col-6">
@@ -140,13 +180,15 @@
                                         <h6 class="title">Message broker</h6>
                                         <ul class="list-unstyled">
                                             <li><a href="https://www.alumio.com/platforms/cxml">cXML</a></li>
-                                            <li><a href="https://www.alumio.com/platforms/edi-broker">EDI Broker</a></li>
+                                            <li><a href="https://www.alumio.com/platforms/edi-broker">EDI Broker</a>
+                                            </li>
                                             <li><a href="https://www.alumio.com/platforms/json">JSON</a></li>
                                         </ul>
                                         <h6 class="title">Marketplace</h6>
                                         <ul class="list-unstyled">
-                                            <li><a href="https://www.alumio.com/marketplace">See all integrations</a></li>
-                                        </ul>   
+                                            <li><a href="https://www.alumio.com/marketplace">See all integrations</a>
+                                            </li>
+                                        </ul>
                                     </div> <!-- col-megamenu.// -->
                                 </div>
                             </div><!-- end row -->
@@ -278,6 +320,14 @@
         integrity="sha384-cuYeSxntonz0PPNlHhBs68uyIAVpIIOZZ5JqeqvYYIcEL727kskC66kF92t6Xl2V" crossorigin="anonymous">
     </script>
     <script>
+        if (history.scrollRestoration) {
+            history.scrollRestoration = 'manual';
+        } else {
+            window.onbeforeunload = function () {
+                window.scrollTo(0, 0);
+            }
+        }
+
         function toggleIcon(e) {
             $(e.target)
                 .prev('.panel-heading')

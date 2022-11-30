@@ -23,18 +23,18 @@ body {
     margin-bottom: 10px !important;
 }
 
-li a{
+li a {
     text-decoration: none;
     color: #2d3958;
     font-weight: 400;
     font-size: 14px;
 }
 
-li a:hover{
+li a:hover {
     color: #6a35ff;
 }
 
-.dropdown-toggle::after{
+.dropdown-toggle::after {
     background-image: url('../../image/arrow-down-sign-to-navigate.png');
 }
 
@@ -67,6 +67,7 @@ li a:hover{
         width: 750px;
         margin-top: 0;
     }
+
     .navbar .megamenu-docs {
         box-shadow: 0 1px 10px 0 rgb(0 0 0 / 20%);
         border: none;
@@ -139,7 +140,13 @@ li {
 }
 
 .marketplace-section {
-    padding-bottom: 15vh;
+    padding: 40px 3% 40px;
+}
+.popular-section {
+    padding: 40px 3% 40px;
+}
+.partner-section {
+    padding: 40px 3% 40px;
 }
 
 #navbarSupportedContent {
@@ -300,6 +307,10 @@ a.accordion-1:not(.collapsed)::after {
     color: white;
 }
 
+.col-sm-6 {
+    margin-top: 24px;
+}
+
 .active {
     height: 58px;
     width: 180px;
@@ -308,8 +319,74 @@ a.accordion-1:not(.collapsed)::after {
     color: white;
 }
 
+.mobile-display {
+    display: none;
+}
+
 .partner-picture {
     display: flex;
     align-items: center;
     justify-content: center;
+}
+@media screen and (max-width: 1024px) {
+    .card {
+        width: 13.5rem !important;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .mobile-display {
+        display: flex;
+    }
+
+    .desktop-display {
+        display: none;
+    }
+    
+    .container.d-flex{
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .accordion{
+        width: auto;
+    }
+
+    .marketplace-item{
+        margin-top: 40px !important;
+        padding: 0 !important;
+        width: auto !important;
+    }
+
+    .title, .marketplace-description, .marketplace-subtitle-text {
+        text-align: center;
+    }
+    .col-sm-6 {
+        display: flex;
+        justify-content: center;
+    }
+    .row.mt-5.mb-5 {
+        margin: 0 !important;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .marketplace-header {
+        width: 100%;
+    }
+
+    .filter-wrapper {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .col-sm-6 {
+        margin-top: 24px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .row.mt-5.mb-5 {
+        margin: 0 !important;
+    }
 }
